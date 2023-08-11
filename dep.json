@@ -1,0 +1,63 @@
+{
+    "Departments":[
+        {
+            "Name":"CSE",
+            "Students":[
+                {
+                     "ID": "1",
+                     "Name": "Vishnu",
+                     "tamil":89,     
+                     "ENGLISH": 94,
+                     "MATHS": 67,
+                     "SOCIAL":100
+                },
+                {
+                     "ID": "2",
+                     "Name": "venkat",
+                     "tamil":94,     
+                     "ENGLISH": 67,              
+                     "MATHS": 84,
+                     "SOCIAL":47
+                },
+                {
+                     "ID": "3",
+                     "Name": "Deepan",
+                     "tamil":45,     
+                     "ENGLISH": 98,           
+                     "MATHS": 34,
+                     "SOCIAL":96
+                }
+            ]
+        },
+        {
+            "Name":"MECH",
+            "Students":[
+                {
+                     "ID": "1",
+                     "Name": "Bala",
+                     "tamil":67,     
+                     "ENGLISH": 45,
+                     "MATHS": 28,
+                     "SOCIAL":87
+                },
+                {
+                     "ID": "2",
+                     "Name": "vijay",
+                     "tamil":67,                    
+                     "ENGLISH": 67,
+                     "MATHS": 89,
+                     "SOCIAL":90
+                },
+                {
+                     "ID": "3",
+                     "Name": "Thiru",
+                     "tamil":86,                     
+                     "ENGLISH": 80,
+                     "MATHS": 70,
+                     "SOCIAL":99
+                }
+            ]
+        }
+    ]
+   
+}
